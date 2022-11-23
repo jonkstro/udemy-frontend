@@ -1,4 +1,4 @@
-import { ListComponent } from "./components/ListComponent";
+import UserList from "./components/UserList";
 
 function App() {
   return (
@@ -6,7 +6,7 @@ function App() {
       <h1>
         TESTE
       </h1>
-      <ListComponent />
+      <UserList />
     </>
   );
 }
